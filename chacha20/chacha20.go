@@ -22,9 +22,9 @@ import (
 	"errors"
 	"math"
 
-	"github.com/Yawning/chacha20/tree/master/internal/api"
-	"github.com/Yawning/chacha20/tree/master/internal/hardware"
-	"github.com/Yawning/chacha20/tree/master/internal/ref"
+	"github.com/wankyq/chacha20_/tree/master/chacha20/internal/api"
+	"github.com/wankyq/chacha20_/tree/master/chacha20/internal/hardware"
+	"github.com/wankyq/chacha20_/tree/master/chacha20/internal/ref"
 )
 
 const (
